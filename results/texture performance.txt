@@ -1,0 +1,14 @@
+ENT
+FINAL RESULT --> AUC: 0.9669  ACC: 0.9242  Recall: 0.9139  Specificity: 0.9365  Precision: 0.9314
+HOM
+FINAL RESULT --> AUC: 0.9711  ACC: 0.9366  Recall: 0.9556  Specificity: 0.9177  Precision: 0.9222
+GLN
+FINAL RESULT --> AUC: 0.9675  ACC: 0.9159  Recall: 0.9209  Specificity: 0.9144  Precision: 0.9114
+RLN
+FINAL RESULT --> AUC: 0.9691  ACC: 0.9324  Recall: 0.9498  Specificity: 0.9150  Precision: 0.9200
+RP
+FINAL RESULT --> AUC: 0.9661  ACC: 0.9254  Recall: 0.9305  Specificity: 0.9187  Precision: 0.9228
+SRE
+FINAL RESULT --> AUC: 0.9696  ACC: 0.9349  Recall: 0.9485  Specificity: 0.9246  Precision: 0.9253
+COA
+FINAL RESULT --> AUC: 0.9692  ACC: 0.9323  Recall: 0.9320  Specificity: 0.9333  Precision: 0.9320
