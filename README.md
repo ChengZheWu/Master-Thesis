@@ -4,8 +4,8 @@ Lung cancer is one of the leading causes of death worldwide. This thesis is dedi
 
   ---  
 If you want to realize my thesis quickly, you can see presentation.pptx which contains the main content.  
-If you want to read the whole thesis, you can see R08525116_thesis.pdf.
-The program folder is made up of my all code and the guidence there can show you how to run the code, but you need to download the data from LIDC-IDRI website.
+If you want to read the whole thesis, you can see R08525116_thesis.pdf.  
+The program folder is made up of my all code and the guidence there can show you how to run the code, but you need to download the data from LIDC-IDRI website.  
 
 
 [Multiview residual selective kernel networks for lung nodule classification associated with texture features](https://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-2510202115112000#Summary)
